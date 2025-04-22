@@ -58,9 +58,9 @@ const developer = {
 
 <div align="center">
   
-[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:your.email@gmail.com)](mailto:your.email@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:your.email@gmail.com)](mailto:dahhhy17@gmail.com)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white&link=https://github.com/yangdahyee)](https://github.com/yangdahyee)
-[![Blog Badge](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white&link=https://your-blog-url.com)](https://your-blog-url.com)
+[![Blog Badge](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white&link=https://your-blog-url.com)]([https://your-blog-url.com](https://velog.io/@dazxyhhy/posts))
   
 </div>
 
