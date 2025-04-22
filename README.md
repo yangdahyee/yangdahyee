@@ -1,11 +1,10 @@
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=50&fontAlignY=40&animation=twinkling&fontColor=ffffff" />
 </div>
+
 <div align="center">
   <h1>✨ 안녕하세요, 미래의 개발자입니다! ✨</h1>
   <p><i>열정과 끈기로 성장하는 개발자가 되고 싶습니다</i></p>
-  <img src="https://img.shields.io/github/followers/yangdahyee?style=social" alt="followers" />
-  <img src="https://img.shields.io/github/stars/yangdahyee?style=social" alt="stars" />
 </div>
 
 ## 👩‍💻 About Me
@@ -39,6 +38,7 @@ const developer = {
 ### 🛠️ Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
 </div>
 
 ## 📊 GitHub Stats
@@ -58,9 +58,8 @@ const developer = {
 
 <div align="center">
   
-[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:your.email@gmail.com)](mailto:your.email@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:your.email@gmail.com)](mailto:dahhhy17@gmail.com)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white&link=https://github.com/yangdahyee)](https://github.com/yangdahyee)
-[![Blog Badge](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white&link=https://your-blog-url.com)](https://your-blog-url.com)
   
 </div>
 
