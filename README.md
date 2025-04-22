@@ -1,12 +1,11 @@
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=50&fontAlignY=40&animation=twinkling&fontColor=ffffff" />
 </div>
-
 <div align="center">
   <h1>✨ 안녕하세요, 미래의 개발자입니다! ✨</h1>
   <p><i>열정과 끈기로 성장하는 개발자가 되고 싶습니다</i></p>
-  
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyangdahyee&count_bg=%23FF8CB3&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  <img src="https://img.shields.io/github/followers/yangdahyee?style=social" alt="followers" />
+  <img src="https://img.shields.io/github/stars/yangdahyee?style=social" alt="stars" />
 </div>
 
 ## 👩‍💻 About Me
