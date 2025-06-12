@@ -21,7 +21,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" />
@@ -41,11 +42,8 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [북끄북끄](https://github.com/yangdahyee/bookshy) | 중고 도서 교환 & 추천 플랫폼 (React, PWA) | React, TS, Tailwind, Spring |
-| [말랑](https://github.com/yangdahyee/malang) | 사회적 약자를 위한 감정 소통 플랫폼 (영상/자막 기반) | React, OpenVidu, Whisper |
-| [거짓뉴스는 위험해](https://github.com/yangdahyee/fakenews-analyzer) | 뉴스 텍스트 분석 및 AI 기반 진위 판단 | Django, NLP, React |
-
-👉 더 많은 프로젝트는 [📁 포트폴리오 저장소](https://github.com/yangdahyee)에서 확인할 수 있어요!
+| [북끄북끄](https://github.com/yangdahyee/bookshy) | 중고 도서 교환 & 추천 플랫폼 (React, PWA) | React, TS, Tailwind |
+| [말랑](https://github.com/yangdahyee/malang) | 사회적 약자를 위한 감정 소통 플랫폼 (React, Web) | React, OpenVidu |
 
 ---
 
@@ -60,8 +58,7 @@
 
 ## 📫 Contact Me
 
-- Email: **your.email@gmail.com**
-- Blog: [https://your-blog-url.com](https://your-blog-url.com)
+- Email: **dahhhy17@gmail.com**
 - GitHub: [yangdahyee](https://github.com/yangdahyee)
 
 ---
