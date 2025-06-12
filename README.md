@@ -46,14 +46,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yangdahyee&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yangdahyee&theme=radical" width="48%" />
-</div>
-
----
 
 ## 📫 Contact Me
 
