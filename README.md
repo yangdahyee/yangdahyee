@@ -1,80 +1,108 @@
 <div align="center">
   <h1>✨ DAHYE's Wonderland ✨</h1>
   <p>코드를 통해 감각적인 경험을 설계하는 프론트엔드 개발자 지망생</p>
+  <p>삼성SW아카데미(SSAFY) 12기 수료</p>
 </div>
 
----
+<hr>
 
 ## 🙋‍♀️ About Me
 
-- 🎯 **사용자 경험 중심의 인터랙션 설계**에 집중하는 웹 프론트엔드 개발자
-- 🌱 React / TypeScript 기반의 프로젝트 경험
-- 🎨 감성적 UI/UX와 몰입형 사용자 흐름 설계에 관심
-- 💡 팀 내에서 흐름을 설계하고, 복잡한 문제를 구조화하는 걸 즐김
+<div align="center">
 
----
+🌱 React / TypeScript 기반의 웹 프론트엔드 프로젝트 경험  
+🎯 사용자 경험 중심의 인터랙션 흐름 설계에 몰두  
+🎨 감성적 UI/UX와 몰입형 사용자 흐름에 강한 관심   
 
-<h2 align="center">🛠️ Tech Stack & Tools 🛠️</h2>
+</div>
+
+<hr>
+
+<h2 align="center">🛠️ Tech Stack & Tools</h2>
 
 <div align="center">
 
-  <!-- 💻 Languages -->
-  <h3>💻 Languages</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" title="HTML" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" title="CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" title="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" title="Kotlin" />
+<h4>💻 Languages</h4>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" title="HTML" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" title="CSS" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" title="JavaScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" title="TypeScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" title="Kotlin" />
 
-  <br><br>
+<br><br>
 
-  <!-- 🌐 Frontend -->
-  <h3>🌐 Frontend</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" title="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" title="Vue.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" title="Tailwind CSS" />
+<h4>🌐 Frontend</h4>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" title="React" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" title="Vue.js" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" title="Tailwind CSS" />
 
-  <br><br>
+<br><br>
 
-  <!-- 🔧 Backend & Frameworks -->
-  <h3>🔧 Backend & Frameworks</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" title="Django" />
+<h4>🔧 Backend & Frameworks</h4>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" title="Django" />
 
-  <br><br>
+<br><br>
 
-  <!-- 📱 Mobile & IDE -->
-  <h3>📱 Mobile & IDE</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" title="Android Studio" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" title="VS Code" />
+<h4>📱 Mobile & IDE</h4>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" title="Android Studio" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" title="VS Code" />
 
-  <br><br>
+<br><br>
 
-  <!-- 🛠️ Collaboration & Tools -->
-  <h3>🛠️ Collaboration & Tools</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" title="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" title="GitHub" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" height="25" title="Notion" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" height="25" title="Figma" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white" height="25" title="Jira" />
+<h4>🤝 Collaboration & Tools</h4>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" title="Git" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" title="GitHub" />
+<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" height="25" title="Notion" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" height="25" title="Figma" />
+<img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white" height="25" title="Jira" />
 
 </div>
----
 
-## 📌 Featured Projects
+<hr>
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| [북끄북끄](https://github.com/yangdahyee/bookshy) | 중고 도서 교환 & 추천 플랫폼 (React, PWA) | React, TS, Tailwind |
-| [말랑](https://github.com/yangdahyee/malang) | 사회적 약자를 위한 감정 소통 플랫폼 (React, Web) | React, OpenVidu |
+<h2 align="center">📌 Featured Projects</h2>
 
----
+<div align="center">
 
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Description</th>
+    <th>Tech</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/yangdahyee/bookshy">북끄북끄</a></td>
+    <td>중고 도서 교환 & 추천 서비스 (PWA)</td>
+    <td>React, TypeScript, Tailwind</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/yangdahyee/malang">말랑</a></td>
+    <td>사회적 약자를 위한 소통 플랫폼 (Web) </td>
+    <td>React, TypeScript, OpenVidu </td>
+  </tr>
+   <tr>
+    <td><a href="https://github.com/yangdahyee/malang">거짓뉴스는 위험해</a></td>
+    <td>AI 분석을 통해 뉴스의 신뢰성을 분석해주는 서비스 (Android Mobile) </td>
+    <td>Android Studio, Kotlin </td>
+  </tr>
+</table>
 
-## 📫 Contact Me
+</div>
 
-- Email: **dahhhy17@gmail.com**
-- GitHub: [yangdahyee](https://github.com/yangdahyee)
+<hr>
 
----
+<h2 align="center">📫 Contact Me</h2>
 
+<div align="center">
 
+📧 Email: **dahhhy17@gmail.com**  
+💻 GitHub: [yangdahyee](https://github.com/yangdahyee)
+
+</div>
+
+<hr>
+
+<div align="center">
+  <sub>💖 Thanks for visiting my profile! Let's build something amazing together 💖</sub>
+</div>
